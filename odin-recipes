@@ -2,9 +2,10 @@
   <html lang="en">
      <h1>Odin Recipes<h1/>
 <ul>
-        <li><a href="recipes/water.html">water</a></li>
-        img src="recipes/images2/lasagna2.jpeg" alt="lasagna" >
+        <li><a href="recipes/water.html"></a></li>
 
+        <img src="recipes/images2/water2.jpeg" alt="lasagna" >
+      
         <li><a href="recipes/pancakes.html">Pancakes</a></li>
         <img src="recipes/images2/pancake2.jpeg" alt="a stack of pancakes">
         <li><a href="recipes/lasagna.html">Lasagna</a></li>
