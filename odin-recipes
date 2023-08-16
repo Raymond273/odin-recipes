@@ -1,7 +1,14 @@
 <!DOCTYPE html>
-  <html lang="en">
-     <h1>Odin Recipes<h1/>
-<ul>
+  <html>
+<html lang="en">
+    <head>
+      <meta charset="utf-8">
+      <tilte> 
+     <h1>Odin Recipes<h1/></tilte>
+    </head>
+
+<body>
+    <ul>
         <li><a href="recipes/water.html">Water</a></li>
 
         <img src="recipes/images2/water2.jpeg" alt="lasagna" >
@@ -12,3 +19,5 @@
         <img src="recipes/images2/lasagna2.jpeg" alt="lasagna" >
 
         </ul>
+      </body>
+      </html>
